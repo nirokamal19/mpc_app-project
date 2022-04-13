@@ -2,8 +2,9 @@
 
 MPC app for iOS
 
-![Screenshot 2022-04-13 at 22 11 35](https://user-images.githubusercontent.com/52933914/163271200-9a1282aa-aa22-4169-b50d-583d41e3282d.png)
-![Screenshot 2022-04-13 at 22 12 12](https://user-images.githubusercontent.com/52933914/163271206-ef060ea8-185d-4e6a-b0f5-4cf7b128e0f0.png)
+![Screenshot 2022-04-13 at 22 11 35](https://user-images.githubusercontent.com/52933914/163271581-5a7fcf4e-052c-441d-b2d2-532f4809e171.png)
+![Screenshot 2022-04-13 at 22 12 12](https://user-images.githubusercontent.com/52933914/163271588-a4ad8a64-0718-43b6-9e7c-1a5e5778e591.png)
+
 
 Modelled after the AKAI MPC 2000XL. 
 
